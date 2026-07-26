@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.vscode/
+node_modules/
+*.log
+ml model/finetuned-bert/model.safetensors
+
+frontend/.streamlit/secrets.toml
